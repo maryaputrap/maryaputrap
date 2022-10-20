@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryaputrap&theme=blue-green)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=maryaputrap.maryaputrap)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=maryaputrap)
 <a href="https://www.linkedin.com/in/maryaputrap" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/maryaputrap" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
