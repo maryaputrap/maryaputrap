@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    My name is Muhammad Arya Putra Pratama, you can call me Arya, I am an associate's degree student at <a href="https://www.pens.ac.id/">Electronic Engineering    Polytechnic Institute of Surabaya</a>, majoring in Informatics Engineering. Likes to learn new things and work with a team. Wants a career as a full stack web developer.</br>
+    My name is Muhammad Arya Putra Pratama, you can call me Arya, I am an associate's degree student at <a href="https://www.pens.ac.id/">Electronic Engineering    Polytechnic Institute of Surabaya</a>, majoring in Informatics Engineering. Likes to learn new things and work with a team. Wants a career as a Backend Developer or Full Stack Web Developer.</br>
   </em>
 </p>
 
